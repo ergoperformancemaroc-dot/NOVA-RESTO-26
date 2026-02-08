@@ -1,0 +1,8 @@
+{
+  "name": "NovaResto - Modern Restaurant Management",
+  "description": "A comprehensive restaurant management system with POS, inventory, kitchen display, and AI-powered business insights inspired by LS Central.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
